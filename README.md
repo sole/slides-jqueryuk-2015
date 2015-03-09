@@ -5,6 +5,8 @@
 
 [Here](http://soledadpenades.com/files/t/20150306_jquk)
 
+Also see the counterpart repo where I informally experimented with [interoperability between web components and frameworks](https://github.com/sole/wc-interop).
+
 ## View slides locally
 
 First, ensure you have the following installed:
